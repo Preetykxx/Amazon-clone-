@@ -17,7 +17,7 @@ This project replicates the core look and feel of Amazon's homepage.
 - JavaScript
 
 ## 🌐 Live Demo
-👉 https://Preetykxx.github.io/amazon-clone
+👉 https://Preetykxx.github.io/Amazon-clone-/
 
 ## 🙌 About
 Built as part of my Frontend Web Development learning journey.
